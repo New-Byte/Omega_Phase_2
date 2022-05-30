@@ -1,0 +1,14 @@
+README.md
+setup.py
+Omegalib/Preprocessor.py
+Omegalib/__init__.py
+Omegalib/backend.py
+Omegalib/funType.py
+Omegalib/omega.py
+Omegalib/scanner.py
+Omegalib.egg-info/PKG-INFO
+Omegalib.egg-info/SOURCES.txt
+Omegalib.egg-info/dependency_links.txt
+Omegalib.egg-info/requires.txt
+Omegalib.egg-info/top_level.txt
+bin/omega.bat
